@@ -1,0 +1,26 @@
+{
+    "name": "cordova-plugin-ratio-crop",
+    "version": "1.2.0",
+    "description": "RatioCrop based on qwerqwermhc/Crop.",
+    "cordova": {
+        "id": "cordova-plugin-ratio-crop",
+        "platforms": [
+            "android",
+            "ios"
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/peterantonyrausch/cordova-plugin-ratio-crop"
+    },
+    "keywords": [
+        "cordova",
+        "ecosystem:cordova",
+        "cordova-android",
+        "cordova-ios",
+        "image",
+        "image manipulation",
+        "crop"
+    ],
+    "license": "MIT"
+}
